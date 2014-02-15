@@ -1,0 +1,4 @@
+Classic
+=======
+
+Classic Everquest Project
